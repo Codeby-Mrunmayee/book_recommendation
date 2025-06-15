@@ -38,4 +38,4 @@ This project implements a Book Recommendation System using the Book-Crossings da
 7. Recommend top 5 similar books  
 
 ## 🔗 Project Link
-[📎 Click here to open in Google Colab](https://colab.research.google.com/github/freeCodeCamp/boilerplate-book-recommendation-engine/blob/master/fcc_book_recommendation_knn.ipynb)
+[📎 Click here to open in Google Colab](https://colab.research.google.com/drive/19q5C5Y97E8wG8IEt4r66ZpfBe2xQYh9m?usp=sharing)
