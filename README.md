@@ -21,6 +21,10 @@ This project implements a Book Recommendation System using the Book-Crossings da
 ## 📂 Dataset
 - 📁 Book-Crossings Dataset  
 - 📌 Provided via freeCodeCamp
+- Due to GitHub file size limits, you can access the full datasets here:
+
+- [BX-Books.csv (Google Drive)](https://drive.google.com/file/d/1Q8Bvm8YMMQWMRbeR0viOhMCPUmu7yV2G/view?usp=sharing)
+- [BX-Book-Ratings.csv (Google Drive)](https://drive.google.com/file/d/1fn0Sgzl5GcR1ZRWTJRO8D4MkfswlpD5K/view?usp=sharing)
 
 ### Files used:
 - `BX-Books.csv`  
